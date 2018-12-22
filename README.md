@@ -9,4 +9,5 @@ git https://github.com/humhei/AddIn_Package_Updated.git
 ```
 
 
-## All tools is forked from [Excel-DNA](https://github.com/Excel-DNA/ExcelDna)
+### License
+All tools are forked from [Excel-DNA](https://github.com/Excel-DNA/ExcelDna)
