@@ -5,5 +5,5 @@ updated MsBuild reference for use in vscode?
 ## Usage:
 Reference this repo in [paket](https://fsprojects.github.io/Paket/)
 ```
-git https://gitee.com/humhei/Atrous.Core.git
+git https://github.com/humhei/AddIn_Package_Updated.git
 ```
